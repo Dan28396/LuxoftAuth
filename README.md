@@ -20,7 +20,7 @@ npm run build
 npm run lint
 ```
 
-###For tests
+### For tests
 ```
 login/password : admin@gmail.com/admin
 ```
